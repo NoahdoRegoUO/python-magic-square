@@ -1,4 +1,4 @@
-# python-magic-square
+# Python Magic Square Checker
 
 A square is ✨ magic ✨ if all of the *rows, columns and diagonals* each add up to the **same sum**!
 
